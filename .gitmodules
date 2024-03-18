@@ -1,0 +1,21 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/BraianMG/mini-microservices-from-scratch-client
+[submodule "comments"]
+	path = comments
+	url = https://github.com/BraianMG/mini-microservices-from-scratch-comments
+[submodule "event-bus"]
+	path = event-bus
+	url = https://github.com/BraianMG/mini-microservices-from-scratch-event-bus
+[submodule "infra"]
+	path = infra
+	url = https://github.com/BraianMG/mini-microservices-from-scratch-infra
+[submodule "moderation"]
+	path = moderation
+	url = https://github.com/BraianMG/mini-microservices-from-scratch-moderation
+[submodule "posts"]
+	path = posts
+	url = https://github.com/BraianMG/mini-microservices-from-scratch-posts
+[submodule "query"]
+	path = query
+	url = https://github.com/BraianMG/mini-microservices-from-scratch-query
