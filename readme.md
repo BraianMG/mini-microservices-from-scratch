@@ -10,5 +10,5 @@ If for some reason when you run `skaffold dev` you get an error that says a dock
 ## Submodules with git
 - Add a submodule: `git submodule add <repository> <path>`
 - Update submodule: 
-  - All `git submodule update --remote`
+  - All: `git submodule update --remote`
   - Only one: `git submodule update --remote <path>`
