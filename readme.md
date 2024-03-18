@@ -1,4 +1,4 @@
-# Microservicios
+# Microservices
 
 Run all microservices: `skaffold dev`
 
